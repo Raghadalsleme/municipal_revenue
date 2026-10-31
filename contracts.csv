@@ -1,0 +1,4 @@
+﻿contract_id,asset_id,annual_rent,renewal_date,status,data_kind
+C01,A04,1800000,2026-11-01,active,synthetic
+C02,A05,600000,2027-03-01,active,synthetic
+C03,A01,1500000,2025-12-31,expired,synthetic

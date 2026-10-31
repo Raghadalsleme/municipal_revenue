@@ -1,0 +1,8 @@
+﻿asset_id,name,zone,asset_type,area_m2,status,market_rate,occupancy,delay_months,ease,risk,baseline_annual,data_kind
+A01,أرض تجارية تجريبية ١,نطاق تجريبي أ,land,15000,vacant,180,0.8,1,0.8,0.35,0,synthetic
+A02,مجمع محلات تجريبي,نطاق تجريبي ب,shops,8000,vacant,420,0.85,2,0.7,0.3,0,synthetic
+A03,موقع إعلانات تجريبي,نطاق تجريبي أ,advertising,400,vacant,2500,0.75,1,0.9,0.3,100000,synthetic
+A04,سوق تجريبي,نطاق تجريبي ج,market,10000,leased,320,0.9,1,0.7,0.4,1800000,synthetic
+A05,مواقف تجريبية,نطاق تجريبي ب,parking,5000,leased,160,0.8,1,0.8,0.25,600000,synthetic
+A06,أرض مقيدة تجريبية,نطاق تجريبي ج,land,20000,restricted,150,0.8,6,0.3,0.9,0,synthetic
+A07,أرض لوجستية تجريبية,نطاق تجريبي د,land,60000,vacant,120,0.7,6,0.4,0.65,0,synthetic
